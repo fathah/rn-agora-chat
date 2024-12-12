@@ -1,0 +1,1 @@
+{"version":3,"names":["ChatContact","constructor","params","userId","remark"],"sourceRoot":"../../../src","sources":["common/ChatContact.ts"],"mappings":"AAAA;AACA;AACA;AACA,OAAO,MAAMA,WAAW,CAAC;EACvB;AACF;AACA;;EAEE;AACF;AACA;;EAEEC,WAAWA,CAACC,MAA0C,EAAE;IACtD,IAAI,CAACC,MAAM,GAAGD,MAAM,CAACC,MAAM;IAC3B,IAAI,CAACC,MAAM,GAAGF,MAAM,CAACE,MAAM;EAC7B;AACF"}

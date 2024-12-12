@@ -1,0 +1,5 @@
+E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/android/.cxx/Debug/6e32e6m2/x86_64/CMakeFiles/edit_cache.dir
+E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/android/.cxx/Debug/6e32e6m2/x86_64/CMakeFiles/rebuild_cache.dir
+E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir
+E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/edit_cache.dir
+E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/rebuild_cache.dir

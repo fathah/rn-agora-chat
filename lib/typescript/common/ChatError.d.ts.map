@@ -1,0 +1,1 @@
+{"version":3,"file":"ChatError.d.ts","sourceRoot":"","sources":["../../../src/common/ChatError.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,qBAAa,SAAS;IACpB;;;;;;OAMG;IACH,IAAI,EAAE,MAAM,CAAC;IACb;;OAEG;IACH,WAAW,EAAE,MAAM,CAAC;gBAER,MAAM,EAAE;QAAE,IAAI,EAAE,MAAM,CAAC;QAAC,WAAW,EAAE,MAAM,CAAA;KAAE;CAI1D;AAED;;GAEG;AACH,qBAAa,aAAc,SAAQ,SAAS;CAAG"}

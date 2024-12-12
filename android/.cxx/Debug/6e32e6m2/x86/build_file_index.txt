@@ -1,0 +1,2 @@
+E:\Desktop\Projects\KPTAC\AgoraSample\node_modules\react-native-agora-chat\native_src\cpp\CMakeLists.txt
+E:\Desktop\Projects\KPTAC\AgoraSample\node_modules\react-native-agora-chat\android\src\main\cpp\CMakeLists.txt

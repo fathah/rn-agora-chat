@@ -1,0 +1,13 @@
+# ninja log v5
+14	133	755703773	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir/common/ExtSdkDefine.cpp.o	bfcf792623809a2f
+9	141	755703773	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir/common/ExtSdkObject.cpp.o	8aae70bd4b42b7e1
+18	295	755703773	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir/common/ExtSdkLog.cpp.o	221e0a700939a6e5
+23	299	755703773	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir/java/ExtSdkObjectJava.cpp.o	78667f0394e75f9e
+43	368	755703773	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir/common/ExtSdkType.cpp.o	7e4630efcc01a3a0
+134	402	755703773	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir/android/ExtSdkLogAndroid.cpp.o	5a3788b8ea3b752
+0	1991	755703774	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir/common/ExtSdkConfig.cpp.o	eed7734a3ce6a969
+36	2064	755703775	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir/java/ExtSdkJniHelper.cpp.o	76e5923d7ed1bb96
+5	2078	755703775	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir/common/ExtSdkMethodType.cpp.o	6e726ec2812c4a47
+49	2149	755703775	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir/core/ExtSdkApi.cpp.o	3a39d162dd3936d6
+30	2199	755703775	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/native_src/output/cpp/build/CMakeFiles/ext_sdk.dir/java/ExtSdkApiJava.cpp.o	4447838003f8a84f
+2199	2347	755703775	E:/Desktop/Projects/KPTAC/AgoraSample/node_modules/react-native-agora-chat/android/build/intermediates/cxx/Debug/6e32e6m2/obj/x86_64/libext_sdk.so	ca49367f9ad82b0

@@ -1,0 +1,1 @@
+{"version":3,"file":"ChatContact.d.ts","sourceRoot":"","sources":["../../../src/common/ChatContact.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,qBAAa,WAAW;IACtB;;OAEG;IACH,MAAM,EAAE,MAAM,CAAC;IACf;;OAEG;IACH,MAAM,EAAE,MAAM,CAAC;gBACH,MAAM,EAAE;QAAE,MAAM,EAAE,MAAM,CAAC;QAAC,MAAM,EAAE,MAAM,CAAA;KAAE;CAIvD"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"ChatDeviceInfo.d.ts","sourceRoot":"","sources":["../../../src/common/ChatDeviceInfo.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH,qBAAa,cAAc;IACzB;;OAEG;IACH,QAAQ,EAAE,MAAM,CAAC;IACjB;;OAEG;IACH,UAAU,EAAE,MAAM,CAAC;IACnB;;OAEG;IACH,UAAU,EAAE,MAAM,CAAC;gBAEP,MAAM,EAAE;QAClB,QAAQ,EAAE,MAAM,CAAC;QACjB,UAAU,EAAE,MAAM,CAAC;QACnB,UAAU,EAAE,MAAM,CAAC;KACpB;CAKF"}
