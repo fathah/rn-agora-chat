@@ -16,6 +16,7 @@ import com.easemob.ext_sdk.jni.ExtSdkApiJni;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.bridge.WritableMap;
+import com.facebook.react.bridge.WritableArray;
 import com.facebook.react.bridge.WritableNativeArray;
 import com.facebook.react.module.annotations.ReactModule;
 import com.facebook.react.bridge.Promise;
@@ -151,7 +152,7 @@ public class ExtSdkApiRN extends ReactContextBaseJavaModule implements ExtSdkApi
     }
 
     @ReactMethod
-    public Object[] listeners(String methodType) throws Exception {
+    public WritableArray listeners(String methodType) throws Exception {
         // Keep: Required for RN built in Event Emitter Calls.
         throw new Exception("Required for RN built in Event Emitter Calls.");
     }
